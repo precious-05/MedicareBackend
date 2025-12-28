@@ -1,7 +1,7 @@
-# requirements.txt - GUARANTEED WORKING
 fastapi==0.100.0
 uvicorn==0.23.2
-sqlalchemy==2.0.20
-psycopg2-binary==2.9.7
-pydantic==1.10.13  # ⭐ 1.x version
+sqlalchemy==1.4.46
+psycopg2-binary==2.9.6
+pydantic==1.10.12
 aiohttp==3.8.5
+python-multipart==0.0.5
