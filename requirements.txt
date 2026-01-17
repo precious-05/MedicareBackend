@@ -1,7 +1,10 @@
-fastapi==0.104.1
-uvicorn[standard]==0.24.0
-sqlalchemy==2.0.23
-psycopg2-binary==2.9.9
-pydantic==2.5.0
-aiohttp==3.9.1
-python-multipart==0.0.6
+fastapi==0.124.2
+uvicorn[standard]==0.38.0
+sqlalchemy==2.0.43
+psycopg2-binary==2.9.10
+pydantic==2.12.5
+python-dotenv==1.2.1
+aiohttp==3.13.2
+jellyfish==1.2.1
+python-Levenshtein==0.27.3
+fuzzywuzzy==0.18.0
